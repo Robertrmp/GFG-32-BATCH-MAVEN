@@ -29,7 +29,6 @@ public class MyCalc {
 	{
 		System.out.println("Hello Master Branch This is GitHub Class, Thanks Hitesh UPES");
 	}
-	
 
 	public static void main(String[] args) {
 
